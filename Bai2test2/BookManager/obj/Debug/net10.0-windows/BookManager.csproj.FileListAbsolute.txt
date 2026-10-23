@@ -1,0 +1,17 @@
+C:\Users\TT\source\repos\BookManager\BookManager\bin\Debug\net10.0-windows\BookManager.exe
+C:\Users\TT\source\repos\BookManager\BookManager\bin\Debug\net10.0-windows\BookManager.deps.json
+C:\Users\TT\source\repos\BookManager\BookManager\bin\Debug\net10.0-windows\BookManager.runtimeconfig.json
+C:\Users\TT\source\repos\BookManager\BookManager\bin\Debug\net10.0-windows\BookManager.dll
+C:\Users\TT\source\repos\BookManager\BookManager\bin\Debug\net10.0-windows\BookManager.pdb
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.Form1.resources
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.csproj.GenerateResource.cache
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.AssemblyInfoInputs.cache
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.AssemblyInfo.cs
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.dll
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\refint\BookManager.dll
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.pdb
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\BookManager.genruntimeconfig.cache
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\ref\BookManager.dll
+C:\Users\TT\source\repos\BookManager\BookManager\obj\Debug\net10.0-windows\BookMana.811100A4.Up2Date
